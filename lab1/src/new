@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+echo "Present working directory:" `pwd`
+echo "Date:" `date`
+echo "PATH:" 
+echo `$PATH`
